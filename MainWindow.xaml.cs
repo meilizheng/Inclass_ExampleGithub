@@ -23,7 +23,7 @@ namespace Inclass_ExampleGithub
         public MainWindow()
         {
             InitializeComponent();
-            //Winter class 2023;
+            //Hello 2023
         }
     }
 }
