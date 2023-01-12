@@ -7,7 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+<<<<<<< Updated upstream
         <RichTextBox HorizontalAlignment="Left" Height="119" Margin="144,55,0,0" VerticalAlignment="Top" Width="137">
+=======
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF54CC77" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <RichTextBox HorizontalAlignment="Left" Height="119" Margin="322,116,0,0" VerticalAlignment="Top" Width="137" Background="#FFB5A145">
+>>>>>>> Stashed changes
             <FlowDocument>
                 <Paragraph>
                     <Run Text="RichTextBox"/>
