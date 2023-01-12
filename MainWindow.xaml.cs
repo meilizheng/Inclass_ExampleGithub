@@ -23,6 +23,7 @@ namespace Inclass_ExampleGithub
         public MainWindow()
         {
             InitializeComponent();
+            // Hello class
         }
     }
 }
